@@ -46,7 +46,7 @@ Modelagem e prototipagem.
 
 # Equipe de desenvolvedores do Projeto #
 
- [<sub>Lucemila Bonifácio</sub>](https://github.com/LucemilaBonifacio) | [<br><sub>Paula Florido</sub>](https://github.com/paulagvp) | [<sub>Pedro AlvesMelo</sub>](https://github.com/) | [<sub>Suelen Cabral</sub>](https://github.com/) | [<sub>Tamyres Pereira</sub>](https://github.com/) |
+ [<sub>Lucemila Bonifácio</sub>](https://github.com/LucemilaBonifacio) | [<br><sub>Paula Florido</sub>](https://github.com/paulagvp) | [<sub>Pedro Alves</sub>](https://github.com/Peu0508) | [<sub>Suelen Cabral</sub>](https://github.com/SueeCabral) | [<sub>Tamyres Pereira</sub>](https://github.com/TamyresPereiraSilva) |
 
 
 
