@@ -15,17 +15,38 @@ Seu objetivo principal é permitir que os clientes realizem e registrem operaç�
   
 ------------------------------------------
 
-# Status do Projeto #
+# Estrutura do Projeto #
 
-Modelagem e prototipagem.
+- Frontend: Interfaces criadas com Figma para prototipagem e design visual.
+- Backend: Desenvolvimento do banco de dados e integração com as funcionalidades bancárias essenciais.
+- Banco de Dados: Estrutura de banco de dados modelada utilizando BRModelo.
 
 ------------------------------------------
 
 # Modelagem do banco de dados # 
 
+## 1. Modelagem conceitural 
+Este modelo conceitual foi desenvolvido para representar as principais operações de um banco digital, como a criação de clientes, a gestão de contas, e a realização de transações, incluindo pagamentos via Pix e boletos. A próxima fase envolve a implementação do modelo físico e lógico, garantindo a funcionalidade e a escalabilidade do sistema.
 
+### Entidades:
+- Gerente
+- Cliente
+- Conta
+- Chave Pix
+- Transação
+- Boleto
 
 ------------------------------------------
+
+# Prototipagem das telas # 
+
+## Telas:
+- Home
+- Login Cliente
+- Login Gerente
+
+------------------------------------------
+
 
 # Próximos passos #
 
@@ -46,8 +67,14 @@ Modelagem e prototipagem.
 
 # Equipe de desenvolvedores do Projeto #
 
- [<sub>Lucemila Bonifácio</sub>](https://github.com/LucemilaBonifacio) | [<br><sub>Paula Florido</sub>](https://github.com/paulagvp) | [<sub>Pedro Alves</sub>](https://github.com/Peu0508) | [<sub>Suelen Cabral</sub>](https://github.com/SueeCabral) | [<sub>Tamyres Pereira</sub>](https://github.com/TamyresPereiraSilva) |
 
+- **[Lucemila Bonifácio](https://github.com/LucemilaBonifacio)**
+- **[Paula Florido](https://github.com/paulagvp)**
+- **[Pedro Alves](https://github.com/Peu0508)**
+- **[Suelen Cabral](https://github.com/SueeCabral)**
+- **[Tamyres Pereira](https://github.com/TamyresPereiraSilva)**
+
+---
 
 
 
