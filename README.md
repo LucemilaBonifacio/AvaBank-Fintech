@@ -1,4 +1,4 @@
-# PROJETO Fintech - AvaBank #
+# PROJETO Fintech - DecolaBank #
 
 FinTech - AvaBank: Banco Digital para Gerenciamento de Operações Bancárias
 
